@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\afreitas\\AppData\\Local\\Arduino15\\packages\\rak_rui\\hardware\\stm32\\4.2.1\\cores\\STM32WLE"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\afreitas\\AppData\\Local\\Arduino15\\packages\\rak_rui\\hardware\\stm32\\4.2.1\\variants\\WisDuo_RAK3172_Evaluation_Board"
+  },
+  {
+    "Sourcefile": "c:\\Users\\afreitas\\OneDrive\\Desktop\\Projetos-git\\RAK3172-LoRaWAN-ABP-SHCT3\\LoRaWAN-ABP\\build\\sketch\\LoRaWan_ABP.ino.cpp",
+    "Include": "SparkFun_SHTC3.h",
+    "Includepath": "C:\\Users\\afreitas\\Documents\\Arduino\\libraries\\SparkFun_SHTC3_Humidity_and_Temperature_Sensor_Library\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\afreitas\\OneDrive\\Desktop\\Projetos-git\\RAK3172-LoRaWAN-ABP-SHCT3\\LoRaWAN-ABP\\build\\sketch\\LoRaWan_ABP.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\afreitas\\Documents\\Arduino\\libraries\\SparkFun_SHTC3_Humidity_and_Temperature_Sensor_Library\\src\\SparkFun_SHTC3.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
